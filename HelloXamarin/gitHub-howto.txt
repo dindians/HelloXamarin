@@ -6,3 +6,5 @@ on this page, see the comments from joshaber commented on 15 Nov 2017, which say
 
 It sure looks like something's screwy with Keychain.
 Try opening Keychain Access.app. Right-click on the login keychain and try locking it and then unlocking it again.
+
+line added online via https://github.com/dindians/HelloXamarin/edit/master/HelloXamarin/gitHub-howto.txt
