@@ -2,7 +2,7 @@
 
 => https://github.com/desktop/desktop/issues/3263
 
-on this page, see the comments form joshaber commented on 15 Nov 2017, which says: 
+on this page, see the comments from joshaber commented on 15 Nov 2017, which says: 
 
 It sure looks like something's screwy with Keychain.
 Try opening Keychain Access.app. Right-click on the login keychain and try locking it and then unlocking it again.
