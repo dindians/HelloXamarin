@@ -43,5 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)gitHub-howto.txt" />
+    <None Include="$(MSBuildThisFileDirectory)githubflow.pdf" />
   </ItemGroup>
 </Project>
